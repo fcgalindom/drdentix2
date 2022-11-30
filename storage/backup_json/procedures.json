@@ -1,0 +1,324 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "name": "CONTROL ORTODONCIA",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "3",
+      "name": "INICIO DE ORTODONCIA",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "6",
+      "name": "BLANQUEAMIENTO DENTAL",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "7",
+      "name": "RESINAS",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "8",
+      "name": "EXODONCIA DE PREMOLARES",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "9",
+      "name": "EXODONCIA CORDALES SIMPLE",
+      "duration": "30",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "12",
+      "name": "EXODONCIA TEMPORALES",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "13",
+      "name": "RESINAS ALTA ESTÉTICA",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "15",
+      "name": "PRUEBA DE ENFILADO",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "17",
+      "name": "ENTREGA PRÓTESIS DENTAL",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "18",
+      "name": "TOMA DE IMPRECION DEFINITIVA CORONA",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "19",
+      "name": "PRUEVA METAL CORONA",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "20",
+      "name": "ADAPTACIÓN CORONA",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "21",
+      "name": "ENTREGA CORONA",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "22",
+      "name": "TOMA DE PATRÓN DE NÚCLEO",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "23",
+      "name": "TRATAMIENTO DE CONDUCTO",
+      "duration": "30",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "24",
+      "name": "PERIODONCIA",
+      "duration": "30",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "25",
+      "name": "GINGEVECTOMIA",
+      "duration": "30",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "26",
+      "name": "FRENIYECTOMIA",
+      "duration": "30",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "27",
+      "name": "VENTANA QUIRÚRGICA",
+      "duration": "30",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "28",
+      "name": "VALORACIÓN PERIODONCIA",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "29",
+      "name": "CONTROL PERIODONTAL",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "30",
+      "name": "CIRUJIA DE CORDALES  MAXILOFACIAL",
+      "duration": "30",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "32",
+      "name": "BANDAS",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "34",
+      "name": "ENTREGA DE RETENEDORES",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "36",
+      "name": "ENTREGA DE PROTESIS",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "16",
+      "name": "ADAPTACION PROTESIS",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "69",
+      "name": "VALORACIÓN ORTODONCIA",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "70",
+      "name": "VALORACION ODONTÓLOGIA GENERAL",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "10",
+      "name": "EXODONCIA MOLARES",
+      "duration": "15",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "35",
+      "name": "TOMA DE IMPRECION",
+      "duration": "10",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "11",
+      "name": "RETIRO DE ORTODONCIA + HIGIENE ORAL",
+      "duration": "10",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "33",
+      "name": "REJILLA PALATINA",
+      "duration": "10",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "2",
+      "name": "HIGIENE ORAL",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "31",
+      "name": "TOPES OCLUSALES",
+      "duration": "10",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "14",
+      "name": "TOMA DE IMPRECION PROTESIS DENTAL",
+      "duration": "10",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "4",
+      "name": "SEGUNDO CONTROL + TUBOS",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "5",
+      "name": "TERCER CONTROL ORTODONCIA",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "71",
+      "name": "CONTROL PROTESIS DENTAL",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "72",
+      "name": "VALORACION PROTESIS DENTAL",
+      "duration": "5",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    }
+  ]
+}

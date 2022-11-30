@@ -1,0 +1,52 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "name": "ANGÉLICA JIMENES DUQUE",
+      "city": "YUMBO VALLE",
+      "id_user": "10",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "3",
+      "name": "JUAN GUILLERMO GARCIA",
+      "city": "YUMBO VALLE",
+      "id_user": "12",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "4",
+      "name": "YUREIMY ZALAMANCA",
+      "city": "YUMBO VALLE",
+      "id_user": "13",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "5",
+      "name": "DR.DENTIX",
+      "city": "YUMBO VALLE",
+      "id_user": "14",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "2",
+      "name": "ANDRES FELIPE GUEVARA",
+      "city": "YUMBO VALLE",
+      "id_user": "11",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    },
+    {
+      "id": "37",
+      "name": "DIANA CAROLINA ROJAS",
+      "city": "YUMBO VALLE",
+      "id_user": "342",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    }
+  ]
+}

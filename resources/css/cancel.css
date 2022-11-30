@@ -1,0 +1,74 @@
+span {
+  font-weight: bold;
+}
+
+.d-flex > span,
+p {
+  font-size: 1rem;
+  color: #9b9c9d;
+}
+
+p {
+  position: relative;
+  left: 0.5rem;
+}
+
+h3 {
+  color: #9b9c9d;
+}
+
+.w-10r {
+  width: 10rem;
+}
+
+.prr-3 {
+  position: relative;
+  right: 2rem;
+}
+
+.prl-3 {
+  position: relative;
+  left: 2rem;
+}
+
+.border-left {
+  border-left: 1px solid #9b9c9d;
+}
+
+.btn-green-success {
+  background-color: #7fca1f;
+  border: 1px solid #7fca1f;
+  color: #fff;
+}
+
+.btn-red-danger {
+  background-color: #fe0000;
+  border: 1px solid #fe0000;
+  color: #fff;
+}
+
+@media (max-width: 767px) {
+  .border-left {
+    border-left: none;
+  }
+  .w-10r {
+    width: 8rem;
+  }
+  .prr-3 {
+    position: relative;
+    right: 1rem;
+    font-size: 0.8rem;
+  }
+  .prl-3 {
+    position: relative;
+    left: 1rem;
+    font-size: 0.8rem;
+  }
+  span,
+p {
+    font-size: 0.9rem;
+    color: #9b9c9d;
+  }
+}
+
+/*# sourceMappingURL=cancel.css.map */

@@ -1,0 +1,201 @@
+.hv-100 {
+  height: 100vh;
+}
+
+.select2 {
+  width: 100% !important;
+  display: block !important;
+}
+
+.select2-container--default .select2-selection--single {
+  border-radius: 12px !important;
+  background: transparent;
+}
+
+.select2-selection__rendered {
+  color: #000 !important;
+}
+
+input[type=text],
+input[type=date],
+input[type=time],
+select {
+  border: 0 !important;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid #817e7e !important;
+}
+
+input[type=text]:disabled {
+  background: #fff;
+}
+
+.content-header {
+  background: #fff !important;
+}
+
+.text-celeste {
+  color: #24b3ef;
+  font-weight: bold;
+}
+
+.color-cafe {
+  color: #817e7e;
+}
+
+.form-group > label {
+  color: #817e7e;
+}
+
+.form-select,
+.form-control {
+  color: #817e7e;
+}
+
+.text-cel {
+  color: #24b3ef;
+}
+
+.text-center > .btn-celeste {
+  background-color: #24b3ef;
+  border: 1px solid #24b3ef;
+  color: white;
+  border-radius: 10px;
+}
+
+.pr-4 {
+  position: relative;
+  right: 1rem;
+}
+
+.ml-md-4 {
+  margin-left: 1rem;
+}
+
+.pl-1 {
+  padding-left: 0.25rem;
+}
+
+.btn-check-dentist {
+  background-color: transparent;
+  border: 1px solid #a19f9f;
+  color: #a19f9f;
+}
+
+.btn-check-dentist:focus {
+  background-color: #92c01f;
+  border: 1px solid #92c01f;
+  color: #fff;
+}
+
+.btn-day {
+  border: 1px solid #c5c5c5;
+  background-color: #fff;
+  color: #c5c5c5;
+  height: 1.5rem;
+}
+
+.bottom-10 {
+  bottom: 10%;
+}
+
+.btn-day > span {
+  font-weight: bold;
+}
+
+.ubication {
+  position: relative;
+  bottom: 2rem;
+  left: 0.5rem;
+}
+
+.btn-red-close {
+  background-color: #e31213;
+  border: 1px solid #e31213;
+  color: #fff;
+}
+
+.w-4rem {
+  width: 9rem;
+}
+
+.w-4rem > span {
+  display: flex;
+  justify-content: center;
+  font-size: 0.8rem;
+  position: relative;
+  bottom: 0.1rem;
+}
+
+.btn-sug {
+  background-color: #ececec;
+  color: #a19f9f;
+  border: 1px solid #ececec;
+  height: 1.5rem;
+}
+
+.btn-sug:focus {
+  background-color: #92c01f;
+  color: #fff;
+  border: 1px solid #92c01f;
+}
+
+.text-verde {
+  color: #92c01f;
+}
+
+.rounded-10px {
+  border-radius: 10px;
+}
+
+.btn-save-day {
+  width: 5rem;
+  height: 1.5rem;
+  border: 1px solid #c5c5c5;
+  background: #c5c5c5;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.rounded-5 {
+  border-radius: 23px;
+}
+
+.w-5rem > button {
+  width: 1.7rem;
+}
+
+.modal-medium {
+  max-width: 400px;
+  border: none;
+}
+
+.modal-medium hr {
+  background-color: #a19f9f;
+  height: 1.5px;
+  opacity: 0.7;
+}
+
+.btn-save-day > b {
+  position: relative;
+  bottom: 0.1rem;
+}
+
+@media (max-width: 992px) {
+  .pr-4 {
+    position: relative;
+    right: 0rem;
+  }
+}
+@media (max-width: 768px) {
+  .ml-md-4 {
+    margin-left: 0rem;
+  }
+}
+@media (max-width: 450px) {
+  .modal-medium {
+    max-width: 100%;
+  }
+}
+
+/*# sourceMappingURL=appointmentP.css.map */

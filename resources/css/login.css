@@ -1,0 +1,51 @@
+.slider {
+  background: url("../js/Img/fondo.jpeg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.slider .modal-body {
+  padding: 1rem;
+}
+.slider .btn-login {
+  background-color: #01d4c1;
+  color: #fff;
+  border: 1px solid #01d4c1;
+}
+.slider .btn-login:hover {
+  color: #d8bfd8;
+}
+.slider .size-img {
+  height: 9rem;
+  width: 25rem;
+}
+.slider .fs-p-1::placeholder {
+  font-size: 0.9rem;
+}
+.slider .fs-9 {
+  font-size: 0.9rem;
+}
+.slider .w-25r {
+  width: 25rem;
+}
+
+@media (max-width: 768px) {
+  .size-img {
+    height: 10 rem;
+    width: 25 rem;
+  }
+}
+@media (max-width: 450px) {
+  .size-img {
+    height: 7 rem;
+    width: 18 rem;
+  }
+}
+@media (max-width: 300px) {
+  .size-img {
+    height: 7 rem;
+    width: 15 rem;
+  }
+}
+
+/*# sourceMappingURL=login.css.map */

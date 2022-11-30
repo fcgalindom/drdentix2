@@ -1,0 +1,368 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "proceduresF": "1",
+      "dentistsF": "3",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "2",
+      "proceduresF": "5",
+      "dentistsF": "3",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "3",
+      "proceduresF": "4",
+      "dentistsF": "3",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "4",
+      "proceduresF": "3",
+      "dentistsF": "3",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "5",
+      "proceduresF": "1",
+      "dentistsF": "4",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "6",
+      "proceduresF": "3",
+      "dentistsF": "4",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "7",
+      "proceduresF": "4",
+      "dentistsF": "4",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "8",
+      "proceduresF": "5",
+      "dentistsF": "4",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "9",
+      "proceduresF": "2",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "10",
+      "proceduresF": "11",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "11",
+      "proceduresF": "14",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "12",
+      "proceduresF": "15",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "13",
+      "proceduresF": "16",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "14",
+      "proceduresF": "17",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "15",
+      "proceduresF": "31",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "16",
+      "proceduresF": "34",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "17",
+      "proceduresF": "1",
+      "dentistsF": "2",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "18",
+      "proceduresF": "5",
+      "dentistsF": "2",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "19",
+      "proceduresF": "4",
+      "dentistsF": "2",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "20",
+      "proceduresF": "3",
+      "dentistsF": "2",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "21",
+      "proceduresF": "2",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "22",
+      "proceduresF": "6",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "23",
+      "proceduresF": "7",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "24",
+      "proceduresF": "8",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "25",
+      "proceduresF": "9",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "26",
+      "proceduresF": "10",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "27",
+      "proceduresF": "11",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "28",
+      "proceduresF": "12",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "29",
+      "proceduresF": "13",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "30",
+      "proceduresF": "14",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "31",
+      "proceduresF": "15",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "32",
+      "proceduresF": "16",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "33",
+      "proceduresF": "21",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "34",
+      "proceduresF": "22",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "35",
+      "proceduresF": "31",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "36",
+      "proceduresF": "32",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "37",
+      "proceduresF": "34",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "38",
+      "proceduresF": "35",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "39",
+      "proceduresF": "36",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "72",
+      "proceduresF": "70",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "73",
+      "proceduresF": "69",
+      "dentistsF": "2",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "74",
+      "proceduresF": "69",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "75",
+      "proceduresF": "70",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "76",
+      "proceduresF": "69",
+      "dentistsF": "3",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "77",
+      "proceduresF": "3",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:36",
+      "updated_at": "8/4/2022 00:44:36"
+    },
+    {
+      "id": "78",
+      "proceduresF": "3",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:37",
+      "updated_at": "8/4/2022 00:44:37"
+    },
+    {
+      "id": "106",
+      "proceduresF": "71",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:37",
+      "updated_at": "8/4/2022 00:44:37"
+    },
+    {
+      "id": "107",
+      "proceduresF": "69",
+      "dentistsF": "4",
+      "created_at": "8/4/2022 00:44:37",
+      "updated_at": "8/4/2022 00:44:37"
+    },
+    {
+      "id": "108",
+      "proceduresF": "72",
+      "dentistsF": "1",
+      "created_at": "8/4/2022 00:44:37",
+      "updated_at": "8/4/2022 00:44:37"
+    },
+    {
+      "id": "109",
+      "proceduresF": "71",
+      "dentistsF": "5",
+      "created_at": "8/4/2022 00:44:37",
+      "updated_at": "8/4/2022 00:44:37"
+    },
+    {
+      "id": "111",
+      "proceduresF": "24",
+      "dentistsF": "37",
+      "created_at": "8/4/2022 00:44:37",
+      "updated_at": "8/4/2022 00:44:37"
+    },
+    {
+      "id": "112",
+      "proceduresF": "29",
+      "dentistsF": "37",
+      "created_at": "8/4/2022 00:44:37",
+      "updated_at": "8/4/2022 00:44:37"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "migration": "2014_10_12_000000_create_users_table",
+      "batch": "1"
+    },
+    {
+      "id": "2",
+      "migration": "2014_10_12_100000_create_password_resets_table",
+      "batch": "1"
+    },
+    {
+      "id": "3",
+      "migration": "2014_10_12_200000_add_two_factor_columns_to_users_table",
+      "batch": "1"
+    },
+    {
+      "id": "4",
+      "migration": "2019_08_19_000000_create_failed_jobs_table",
+      "batch": "1"
+    },
+    {
+      "id": "5",
+      "migration": "2019_12_14_000001_create_personal_access_tokens_table",
+      "batch": "1"
+    },
+    {
+      "id": "6",
+      "migration": "2020_05_21_100000_create_teams_table",
+      "batch": "1"
+    },
+    {
+      "id": "7",
+      "migration": "2020_05_21_200000_create_team_user_table",
+      "batch": "1"
+    },
+    {
+      "id": "8",
+      "migration": "2020_05_21_300000_create_team_invitations_table",
+      "batch": "1"
+    },
+    {
+      "id": "9",
+      "migration": "2021_10_13_135957_create_sessions_table",
+      "batch": "1"
+    },
+    {
+      "id": "10",
+      "migration": "2021_10_13_145603_create_branches_table",
+      "batch": "1"
+    },
+    {
+      "id": "11",
+      "migration": "2021_10_13_145643_create_dentists_table",
+      "batch": "1"
+    },
+    {
+      "id": "12",
+      "migration": "2021_10_13_150118_create_patients_table",
+      "batch": "1"
+    },
+    {
+      "id": "13",
+      "migration": "2021_10_13_152426_create_procedures_table",
+      "batch": "1"
+    },
+    {
+      "id": "14",
+      "migration": "2021_10_18_140318_dentist_procedure",
+      "batch": "1"
+    },
+    {
+      "id": "15",
+      "migration": "2021_10_19_140018_create_appointments_table",
+      "batch": "1"
+    },
+    {
+      "id": "16",
+      "migration": "2021_11_12_000233_add_photo_to_users",
+      "batch": "1"
+    },
+    {
+      "id": "17",
+      "migration": "2021_12_01_134135_create_schedules_table",
+      "batch": "1"
+    },
+    {
+      "id": "18",
+      "migration": "2021_12_12_034005_create_promotions_table",
+      "batch": "1"
+    },
+    {
+      "id": "19",
+      "migration": "2021_12_16_211515_create_crear_pdfs_table",
+      "batch": "1"
+    },
+    {
+      "id": "20",
+      "migration": "2021_12_25_132209_create_jobs_table",
+      "batch": "1"
+    },
+    {
+      "id": "21",
+      "migration": "2022_03_12_172908_add_type_state_for_appoinment",
+      "batch": "1"
+    }
+  ]
+}

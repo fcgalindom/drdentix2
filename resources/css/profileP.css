@@ -1,0 +1,36 @@
+.size-img-card {
+  width: auto;
+  height: 12rem;
+}
+
+.size-img-profile {
+  width: 12rem;
+  height: 10rem;
+}
+
+.prb-5 {
+  position: relative;
+  bottom: 7rem;
+}
+
+.size-perfil {
+  height: 10.6rem;
+  width: 12rem;
+}
+
+.container-fluid > .d-flex > p {
+  margin-left: 0.5rem;
+}
+
+.card-body {
+  border: 1.9px solid #707070;
+}
+
+.card span,
+p,
+h4,
+h5 {
+  color: #707070;
+}
+
+/*# sourceMappingURL=profileP.css.map */

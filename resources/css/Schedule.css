@@ -1,0 +1,14 @@
+.h-4r td {
+  height: 4rem;
+}
+
+td > .form-check {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+tbody > tr > .id {
+  text-align: start;
+}
+
+/*# sourceMappingURL=Schedule.css.map */

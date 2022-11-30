@@ -1,0 +1,20 @@
+{
+  "RECORDS": [
+    {
+      "id": "if2wjUxiJILydx0NIiCGJacnLaSL16yQJ98guFx5",
+      "user_id": "1",
+      "ip_address": "10.1.35.28",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",
+      "payload": "YTo1OntzOjY6Il90b2tlbiI7czo0MDoiZGRPdkdUNmdWSjBnZkd6OHA0UDNPVzMyMmVaTnVYeTFHbXppOTJpViI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6NzU6Imh0dHA6Ly93d3cuY2xpbmljYW9kb250b2xvZ2ljYWRyZGVudGl4LmNvbS9BZG1pbmlzdHJhZG9yL2NpdGFzQWRtaW5pc3RyYWRvciI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMCRINEhXN1RsM2tzY2ptbldRM0lrTXYuZ25JSmNoUkRSZVN3S29HMzZBNC55dERQM3Bad3M3QyI7fQ==",
+      "last_activity": "1650991351"
+    },
+    {
+      "id": "Yjcu5zYvVAIB1UnDzYTfC7T7wc2sOlaOh5UrBJf3",
+      "user_id": "",
+      "ip_address": "10.1.20.81",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36",
+      "payload": "YToyOntzOjY6Il90b2tlbiI7czo0MDoiSGVSVXVSeUd0VEw0TG5IWmpvd2JLOGdycXIycnRiV3NqZjdiRnpITiI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==",
+      "last_activity": "1650991152"
+    }
+  ]
+}

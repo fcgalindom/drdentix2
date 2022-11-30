@@ -1,0 +1,14 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "address": "carrera 4 #6-35",
+      "name": "Dr.Dentix",
+      "contact": "3156549290",
+      "city": "yumbo-valle",
+      "state": "Activo",
+      "created_at": "8/4/2022 00:44:35",
+      "updated_at": "8/4/2022 00:44:35"
+    }
+  ]
+}
