@@ -4,7 +4,7 @@
         "dev": "vite",
         "build": "vite build",
         "prod": "npm run production",
-        "start": "node index.js",
+        "start": "node index.js"
     },
     "name": "example-app",
     "description": "a really cool app",
